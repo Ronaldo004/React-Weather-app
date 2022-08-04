@@ -1,0 +1,281 @@
+@media (min-width:488px) and (max-width:827px){
+     
+    .Main{
+        width: 100vw;
+        height: auto;
+        
+      
+       
+    }
+    .Weather-Tt{
+        
+        width: 70vw;
+        height: 62vh;
+        border-radius: 10px;
+    }
+
+    .info-Main{
+        width: 100vw;
+        height: auto;
+        
+        display: flex;
+        justify-content: center;
+        margin-top: 14px;
+    }
+    .W-logo{
+        width: 70vw;
+        height: 20vh;
+       
+       
+        padding-top: 5px;
+        font-size: 55px;
+    
+    }
+    
+    .MDeg-time{
+        width: 70vw;
+        height: 25vh;
+       
+        display: flex;
+    
+    }
+    .temp{
+     width:23.33vw;
+     
+     font-size: 50px;
+     display: flex;
+     justify-content: center;
+     justify-items: center;
+     align-items: center;
+    
+    }
+    .description{
+        width:23.33vw;
+     
+     display: flex;
+     justify-content: center;
+   
+     align-items: center;
+     font-size: 25px;
+     flex-direction: column;
+    
+    }
+    .time{
+        width:23.33vw;
+     
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     padding-top: 30px;
+     flex-direction: column;
+     font-weight: bold;
+    }
+    .otherinfo{
+        width: 70vw;
+        height: 16vh;
+        
+        display: grid;
+        grid-template-columns: 8.75vw 8.75vw  8.75vw 8.75vw 8.75vw 8.75vw  8.75vw 8.75vw;
+      
+    }
+    .conl{
+       
+        font-size: 25px;
+       
+        
+    }
+    .time-con{
+       
+        font-size: 9px;
+    
+     
+    
+        
+    }
+    .huml{
+       
+        font-size: 25px;
+       
+    }
+    .humval{
+        
+        font-size: 13px;
+     
+        
+    }
+    .pressl{
+        
+        font-size: 25px;
+        
+        
+    }
+    .pressval{
+        
+        font-size: 13px;
+        
+      
+        
+    }
+    .windl{
+       
+        font-size: 25px;
+       
+    
+    
+    }
+    .windval{
+        
+        font-size: 13px;
+          
+        
+    }
+}
+
+@media only screen and (max-width:487px){
+
+
+
+    .Main{
+        width: 100vw;
+        height: auto;
+      
+      
+       
+    }
+    .Weather-Tt{
+       
+        width: 100vw;
+        height: 62vh;
+        border-radius: 10px;
+    }
+
+    .info-Main{
+        width: 100vw;
+        height: auto;
+        
+        display: flex;
+        justify-content: center;
+        margin-top: 8px;
+    }
+    .W-logo{
+        width: 100vw;
+        height: 20vh;
+        
+       
+        
+        font-size: 40px;
+    
+    }
+    
+    .MDeg-time{
+        width: 100vw;
+        height: 27vh;
+        
+        display: flex;
+    
+    }
+    .temp{
+     width:33.33vw;
+    
+     font-size: 30px;
+     display: flex;
+     justify-content: center;
+     justify-items: center;
+     align-items: center;
+    
+    }
+    .description{
+        width:33.33vw;
+     
+     display: flex;
+     justify-content: center;
+    align-items: center;
+     
+     font-size: 15px;
+     flex-direction: column;
+    
+    }
+    .time{
+        width:33.33vw;
+     
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-size: 15px;
+     flex-direction: column;
+     font-weight: bold;
+    }
+    .otherinfo{
+        width: 100vw;
+        height: 16vh;
+ 
+        display: grid;
+        grid-template-columns: 12.5vw 12.5vw  12.5vw 12.5vw 12.5vw 12.5vw  12.5vw 12.5vw;
+      
+    }
+    .conl{
+       
+        font-size: 18px;
+       
+        
+    }
+    .time-con{
+       
+        font-size: 11px;
+    
+     
+    
+        
+    }
+    .huml{
+       
+        font-size: 18px;
+       
+    }
+    .humval{
+        
+        font-size: 11px;
+     
+        
+    }
+    .pressl{
+        
+        font-size: 18px;      
+        
+    }
+    .pressval{
+        
+        font-size: 11px;
+        
+      
+        
+    }
+    .windl{
+       
+        font-size: 18px;
+       
+    
+    
+    }
+    .windval{
+        
+        font-size: 11px;
+          
+        
+    }
+    .Search{
+        width: 100vw;
+        height: 19vh;
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+    }
+    .search{
+        height: 8vh;
+        width: 50vw;
+        
+        
+    }
+}
