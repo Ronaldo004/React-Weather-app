@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Weather-app/static/css/main.424233ef.css",
+    "main.js": "/React-Weather-app/static/js/main.2d110dd8.js",
+    "static/media/w.jpg": "/React-Weather-app/static/media/w.8f43ee7281d4ad627398.jpg",
+    "static/media/lightning-bolts.jpg": "/React-Weather-app/static/media/lightning-bolts.acf363b4201e090b0cdb.jpg",
+    "index.html": "/React-Weather-app/index.html",
+    "main.424233ef.css.map": "/React-Weather-app/static/css/main.424233ef.css.map",
+    "main.2d110dd8.js.map": "/React-Weather-app/static/js/main.2d110dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.424233ef.css",
+    "static/js/main.2d110dd8.js"
+  ]
+}
